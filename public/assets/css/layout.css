@@ -352,7 +352,9 @@
   display: none;
 }
 
-@media screen and (max-width: 960px) {
+/* //960 to 736 */
+
+@media screen and (max-width: 736px) {
 
   /* Basic */
 
@@ -536,6 +538,10 @@
       }
 
 }
+
+
+
+
 
 /* Mobile */
 

@@ -257,3 +257,12 @@ input, select, textarea {
 			}
 
 		}
+
+
+		/* ======== image carousel */
+
+		.mySlides {
+			margin: 0 auto 50px auto;
+			border-radius: 25px;
+
+		}
